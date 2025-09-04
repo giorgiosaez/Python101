@@ -3,14 +3,6 @@
 ![python.org logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 [![License](https://img.shields.io/github/license/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/stargazers)
-[![Issues Open](https://img.shields.io/github/issues-raw/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/issues)
-[![Issues Closed](https://img.shields.io/github/issues-closed-raw/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/commits/master)
-[![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/graphs/contributors)
-
-This GitHub repository contains material for a beginner Python course held in COWI Lyngby during 2019/2020. Check out its [GitHub page](https://python-crash-course.github.io/Python101/).
 
 If you don't have Python installed please check out the [Python environment installation guideline](https://python-crash-course.github.io/Python101/Installation/installation_guide.html).
 
@@ -20,7 +12,7 @@ Descriptions and exercises for each session are in the format of Jupyter Noteboo
 
 In the *code* tab of this repository there will be a folder for each session. In case an exercise requires additional files like csv files or scripts, they will be present there.
 
-* [Session 0 - Warm-up exercises](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%200%20-%20Introduction/Session%200%20-%20Exercises.ipynb) (Download introduction PowerPoint [here](https://github.com/Python-Crash-Course/Python101/raw/master/Session%200%20-%20Introduction/Session%200%20-%20Introduction.pptx))
+* [Session 0 - Warm-up exercises](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%200%20-%20Introduction/Session%200%20-%20Exercises.ipynb) 
 
 * [Session 1 - Data Types](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%201%20-%20Data%20Types/Session%201%20-%20Data%20Types.ipynb)
 
@@ -99,7 +91,7 @@ These notes have some content that overlaps with the notes for each session, but
 
 * [The GitHub workflow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU) - Youtube video explaining a simple and effective workflow using Git and GitHub
 
-* [GitHub Learning Lab](https://lab.github.com/) - Interactive tutorial that goes through usage GitHub
+* [GitHub Learning](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 
 * [Ressources to Learn Git](https://try.github.io/)
 
