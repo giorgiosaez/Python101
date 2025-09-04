@@ -25,10 +25,8 @@ In the *code* tab of this repository there will be a folder for each session. In
 * [Session 8 - Interpolation](Session%208%20-%20Exercise%20(Interpolation)/Session%208%20-%20Exercise%20(Interpolation).ipynb)
 * [Session 9 - Heatmaps and Merging Operation](Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Heatmaps%20and%20merging%20operations.ipynb)
 
-## Session Exercise Solutions
-
 <details>
-  <summary>Click to expand solutions</summary>
+  <summary>Session Exercise Solutions</summary>
 
 * Session 0 - Introduction (No solutions)
 * Session 1 - Data Types (No solutions)
@@ -70,12 +68,15 @@ In the *code* tab of this repository there will be a folder for each session. In
 
 * [GitHub Learning](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 
-* [Ressources to Learn Git](https://try.github.io/)
+* [Resources to Learn Git](https://try.github.io/)
 
 * [Git and GitHub for Beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 
 ### Miscellaneous
+* [Microsoft Learn](https://learn.microsoft.com/en-us/)
 
+* [Coursera Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals/)
+ 
 * [Coding Challenge Edabit (Coding challenge site)](https://edabit.com/)
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
