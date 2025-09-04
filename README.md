@@ -68,21 +68,15 @@ In the *code* tab of this repository there will be a folder for each session. In
 
 * [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) - Good video explanation from the GitHub Youtube Channel
 
-* [The GitHub workflow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU) - Youtube video explaining a simple and effective workflow using Git and GitHub
-
 * [GitHub Learning](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 
 * [Ressources to Learn Git](https://try.github.io/)
 
 * [Git and GitHub for Beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 
-### Coding Challenge Sites
-
-* [CodeWars (Coding challenge site)](https://www.codewars.com/)
-
-* [Edabit (Coding challenge site)](https://edabit.com/)
-
 ### Miscellaneous
+
+* [Coding Challenge Edabit (Coding challenge site)](https://edabit.com/)
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
