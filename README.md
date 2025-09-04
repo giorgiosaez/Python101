@@ -11,59 +11,38 @@ If you don't have Python installed please check out the [Python environment inst
 Descriptions and exercises for each session are in the format of Jupyter Notebooks. The links below provide convenient ways to view the notebooks for each session.
 
 In the *code* tab of this repository there will be a folder for each session. In case an exercise requires additional files like csv files or scripts, they will be present there.
+## Session Notebooks
 
-* [Session 0 - Warm-up exercises](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%200%20-%20Introduction/Session%200%20-%20Exercises.ipynb) 
-
-* [Session 1 - Data Types](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%201%20-%20Data%20Types/Session%201%20-%20Data%20Types.ipynb)
-
-* [Session 2 - Data Structures](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%202%20-%20Data%20Structures/Session%202%20-%20Data%20Structures.ipynb)
-
-* [Session 3 - Functions](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%203%20-%20Functions/Session%203%20-%20Functions.ipynb)
-
-* [Session 4 - Plotting with matplotlib](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%204%20-%20Plotting/Session%204%20-%20Plotting.ipynb)
-
-* [Session 5 - DataFrames](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%205%20-%20Dataframes/Session%205%20-%20Dataframes.ipynb)
-
-* [Session 6A - Practical Exercise](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206A%20-%20Exercise.ipynb)
-
-* [Session 6B - Practical Exercise](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206B%20-%20Exercise.ipynb)
-
-* [Session 7 - Coordinate Transformation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%207%20-%20Coordinate%20Transformation/Session%207%20-%20Coordinate%20Transformation.ipynb)
-
-* [Session 8 - Interpolation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%208%20-%20Exercise%20(Interpolation)/Session%208%20-%20Exercise%20(Interpolation).ipynb)
-
-* [Session 9 - Heatmaps and Merging Operation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Heatmaps%20and%20merging%20operations.ipynb)
+* [Session 0 - Warm-up exercises](Session%200%20-%20Introduction/Session%200%20-%20Exercises.ipynb)
+* [Session 1 - Data Types](Session%201%20-%20Data%20Types/Session%201%20-%20Data%20Types.ipynb)
+* [Session 2 - Data Structures](Session%202%20-%20Data%20Structures/Session%202%20-%20Data%20Structures.ipynb)
+* [Session 3 - Functions](Session%203%20-%20Functions/Session%203%20-%20Functions.ipynb)
+* [Session 4 - Plotting with matplotlib](Session%204%20-%20Plotting/Session%204%20-%20Plotting.ipynb)
+* [Session 5 - DataFrames](Session%205%20-%20Dataframes/Session%205%20-%20Dataframes.ipynb)
+* [Session 6A - Practical Exercise](Session%206%20-%20Practical_Exercise/Session%206A%20-%20Exercise.ipynb)
+* [Session 6B - Practical Exercise](Session%206%20-%20Practical_Exercise/Session%206B%20-%20Exercise.ipynb)
+* [Session 7 - Coordinate Transformation](Session%207%20-%20Coordinate%20Transformation/Session%207%20-%20Coordinate%20Transformation.ipynb)
+* [Session 8 - Interpolation](Session%208%20-%20Exercise%20(Interpolation)/Session%208%20-%20Exercise%20(Interpolation).ipynb)
+* [Session 9 - Heatmaps and Merging Operation](Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Heatmaps%20and%20merging%20operations.ipynb)
 
 ## Session Exercise Solutions
 
+<details>
+  <summary>Click to expand solutions</summary>
+
 * Session 0 - Introduction (No solutions)
-
 * Session 1 - Data Types (No solutions)
+* [Session 2 - Data Structures](Session%202%20-%20Data%20Structures/Session%202%20-%20Exercise%20solutions.ipynb)
+* [Session 3 - Functions](Session%203%20-%20Functions/Session%203%20-%20Exercise%20Solutions.ipynb)
+* [Session 4 - Plotting](Session%204%20-%20Plotting/Session%204%20-%20Exercise%20Solutions.ipynb)
+* [Session 5 - DataFrames](Session%205%20-%20Dataframes/Session%205%20-%20Exercise%20Solutions.ipynb)
+* [Session 6A - Exercise (shear key plots)](Session%206%20-%20Practical_Exercise/Session%206A%20-%20Exercise%20Solutions.ipynb)
+* [Session 6B - Exercise (bending moment plots)](Session%206%20-%20Practical_Exercise/Session%206B%20-%20Exercise%20Solutions.ipynb)
+* [Session 7 - Coordinate Transformation](Session%207%20-%20Coordinate%20Transformation/Session%207%20-%20Exercise%20solutions.ipynb)
+* [Session 8 - Interpolation](Session%208%20-%20Exercise%20(Interpolation)/Session%208%20-%20Exercise%20Solutions.ipynb)
+* [Session 9 - Heatmaps and Merging Operations](Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Exercise%20Solutions.ipynb)
 
-* [Session 2 - Data Structures](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%202%20-%20Data%20Structures/Session%202%20-%20Exercise%20solutions.ipynb)
-
-* [Session 3 - Functions](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%203%20-%20Functions/Session%203%20-%20Exercise%20Solutions.ipynb)
-
-* [Session 4 - Plotting](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%204%20-%20Plotting/Session%204%20-%20Exercise%20Solutions.ipynb)
-
-* [Session 5 - DataFrames](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%205%20-%20Dataframes/Session%205%20-%20Exercise%20Solutions.ipynb)
-
-* [Session 6A - Exercise (shear key plots)](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206A%20-%20Exercise%20Solutions.ipynb)
-
-* [Session 6B - Exercise (bending moment plots)](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206B%20-%20Exercise%20Solutions.ipynb)
-
-* [Session 7 - Coordinate Transformation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%207%20-%20Coordinate%20Transformation/Session%207%20-%20Exercise%20solutions.ipynb)
-
-* [Session 8 - Interpolation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%208%20-%20Exercise%20(Interpolation)/Session%208%20-%20Exercise%20Solutions.ipynb)
-
-* [Session 9 - Heatmaps and Merging Operations](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Exercise%20Solutions.ipynb)
-
-## Course Notes
-
-Some notes have been prepared for the course, but is still work in progress:
-[Course Notes (work in progress)](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Course%20Notes/Python%20Course%20Notes.ipynb)
-
-These notes have some content that overlaps with the notes for each session, but is in general a more overall description. It also contains more detailed explanations of some topics that did not fit into the session notes.
+</details>
 
 ## Useful Links
 
