@@ -15,8 +15,6 @@
 * [Session 5 - Object-Oriented Programming 2/3](Session%205%20-%20Object-Oriented%20Programming%20II/Session%205%20-%20Object-Oriented%20Programming%20II.ipynb)
 * [Session 6 - Object-Oriented Programming 3/3](Session%206%20-%20Object-Oriented%20Programming%20III/Session%206%20-%20Object-Oriented%20Programming%20III.ipynb)
 * [Session 7 - Interaction between Excel](Session%207%20-%20Interaction%20with%20Excel/Session7_Interaction_with_Excel.ipynb)
-* Session 8 - PDF manipulations with `PyMuPDF`
-* Session 9 - Where to go from here (inspiration)
 
 <details>
   <summary>Session Exercise Solutions</summary>
@@ -29,9 +27,9 @@
 * [Session 5](Session%205%20-%20Object-Oriented%20Programming%20II/Session%205%20-%20Exercise%20solutions.ipynb)
 * [Session 6](Session%206%20-%20Object-Oriented%20Programming%20III/Session%206%20-%20Exercise%20solutions.ipynb)
 * [Session 7](Session%207%20-%20Interaction%20with%20Excel/Session7_Exercise_Solutions.ipynb)
-* Session 8
-* Session 9
+
 </details>
+
 
 
 
