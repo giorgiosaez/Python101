@@ -1,5 +1,7 @@
-# [Day 1 ](https://github.com/giorgiosaez/Python101/tree/master/Day%201)
-# [Day 2 ](https://github.com/giorgiosaez/Python101/tree/master/Day%202)
+## Day 1
+ [Python Basics](https://github.com/giorgiosaez/Python101/tree/master/Day%201)
+## Day 2 
+[Intermediate Python](https://github.com/giorgiosaez/Python101/tree/master/Day%202)
 
 
 
