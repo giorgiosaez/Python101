@@ -17,6 +17,6 @@ def annotate_points(points_to_annotate, ax, **kwargs):
     
     # Loop through x- and y-coordinates of all points
     for text, (xp, yp) in points_to_annotate.items():
-
+   
         # Annotate point
-        ax.annotate(s=text, xy=(xp, yp), **kwargs)
+        ax.annotate(text=str(text), xy=(xp, yp), **kwargs)
