@@ -6,7 +6,7 @@
 
 If you don't have Python installed please check out the [Python environment installation guideline](https://python-crash-course.github.io/Python101/Installation/installation_guide.html).
 
-## Sessions Notes and Exercises
+## Sessions Notes and Exercises.
 
 Descriptions and exercises for each session are in the format of Jupyter Notebooks. The links below provide convenient ways to view the notebooks for each session.
 
