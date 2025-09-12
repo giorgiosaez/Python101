@@ -1,3 +1,7 @@
+# Python 101 - Python for Beginners
+
+![python.org logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 ## Day 1
  [Python Basics](https://github.com/giorgiosaez/Python101/tree/master/Day%201)
 ## Day 2 
